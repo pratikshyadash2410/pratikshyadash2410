@@ -2,6 +2,8 @@
 
 <img src="./header.svg" />
 
+<img src="https://readme-typing-svg.demolab.com/?font=Quicksand&weight=600&size=20&duration=2500&pause=1200&color=6C63FF&center=true&vCenter=true&width=600&height=40&lines=Aspiring+Data+Analyst;Turning+raw+data+into+business+decisions" />
+
 <br/>
 
 <a href="https://linkedin.com/in/pratikshya-dash-955643284"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge" /></a>
@@ -10,11 +12,11 @@
 
 <br/>
 
-## 🧑 About Me
+## 👩‍💼 About Me
 
 **B.Tech in Computer Science & Engineering | Bhubaneswar, IN**
 
-I'm a data analyst focused on turning raw, messy datasets into insights someone can actually act on — from SQL modeling and exploratory analysis to AI-assisted querying and interactive dashboards. My work sits at the intersection of **data analysis, business intelligence, and applied AI**.
+I'm an aspiring Data Analyst who loves the process of turning messy, real-world data into decisions someone can actually act on — from writing the right SQL query to building a dashboard that makes the answer impossible to miss. Lately, I've been exploring how AI can make that process faster and more accessible, without cutting corners on rigor.
 
 - 🎓 **Education:** Trident Academy of Technology, Bhubaneswar
 - 💼 **Experience:** Data Analyst Intern @ Unified Mentor (Jun 2025 – Sep 2025)
@@ -39,20 +41,35 @@ I'm a data analyst focused on turning raw, messy datasets into insights someone 
 
 <div align="center">
 
+**Languages**
+
 <table>
 <tr>
 <td align="center" width="100"><img src="https://skillicons.dev/icons?i=python" width="48"/><br/><b>Python</b></td>
 <td align="center" width="100"><img src="https://skillicons.dev/icons?i=mysql" width="48"/><br/><b>SQL</b></td>
-<td align="center" width="100"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="48"/><br/><b>Pandas</b></td>
+</tr>
+</table>
+
+**AI / ML & Data**
+
+<table>
+<tr>
 <td align="center" width="100"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="48"/><br/><b>NumPy</b></td>
+<td align="center" width="100"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="48"/><br/><b>Pandas</b></td>
+<td align="center" width="100"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" width="48"/><br/><b>Scikit-learn</b></td>
 <td align="center" width="100"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" width="48"/><br/><b>Matplotlib</b></td>
 </tr>
+</table>
+
+**Tools & Frameworks**
+
+<table>
 <tr>
-<td align="center" width="100"><img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/tableau.svg" width="48" style="background:white;border-radius:8px;padding:4px"/><br/><b>Tableau</b></td>
-<td align="center" width="100"><img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/powerbi.svg" width="48" style="background:white;border-radius:8px;padding:4px"/><br/><b>Power BI</b></td>
-<td align="center" width="100"><img src="https://skillicons.dev/icons?i=git" width="48"/><br/><b>Git</b></td>
-<td align="center" width="100"><img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/microsoftexcel.svg" width="48" style="background:white;border-radius:8px;padding:4px"/><br/><b>Excel</b></td>
 <td align="center" width="100"><img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/streamlit.svg" width="48" style="background:white;border-radius:8px;padding:4px"/><br/><b>Streamlit</b></td>
+<td align="center" width="100"><img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/powerbi.svg" width="48" style="background:white;border-radius:8px;padding:4px"/><br/><b>Power BI</b></td>
+<td align="center" width="100"><img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/tableau.svg" width="48" style="background:white;border-radius:8px;padding:4px"/><br/><b>Tableau</b></td>
+<td align="center" width="100"><img src="https://skillicons.dev/icons?i=jupyter" width="48"/><br/><b>Jupyter</b></td>
+<td align="center" width="100"><img src="https://skillicons.dev/icons?i=git" width="48"/><br/><b>Git</b></td>
 </tr>
 </table>
 
@@ -64,30 +81,17 @@ I'm a data analyst focused on turning raw, messy datasets into insights someone 
 
 ## 🚀 Featured Projects
 
-### 🤖 AI-Powered Data Query Assistant (Olist Extension)
-> Extended a prior SQL + Tableau analysis into an AI layer that lets anyone query e-commerce data in plain English — no SQL required
+### 📊 Olist E-Commerce Sales Analysis + AI Query Assistant
+> SQL-driven analysis of 100K+ Brazilian e-commerce transactions, extended with an AI layer that lets anyone query the data in plain English
 
-- Converts natural-language business questions into SQL using the Google Gemini API
-- Auto-picks the right chart (KPI / pie / bar / line) based on the shape of the result, and writes a business insight for every query
-- Restricts execution to read-only `SELECT` queries for safety, and caps large result sets for performance
-- Deployed live on Streamlit Community Cloud
+- Solved 7 real business use cases spanning revenue, customer behavior, and seller performance using JOINs, CTEs, window functions, and CASE statements
+- Built interactive Tableau dashboards to communicate findings across sales, customers, products, and logistics
+- Extended the project with an AI assistant (Google Gemini API) that converts natural-language questions into SQL, auto-picks the right chart (KPI / pie / bar / line), and writes a business insight for every query
+- Restricts execution to read-only queries for safety, and deployed live on Streamlit Community Cloud
 
-**Stack:** `Python` `Streamlit` `Google Gemini API` `SQLite` `Altair`
+**Stack:** `SQL` `Tableau` `Python` `Streamlit` `Google Gemini API` `SQLite` `Altair`
 
 [![Live Demo](https://img.shields.io/badge/🔴_Live_Demo-Try_it-E63946?style=for-the-badge)](https://olist-ai-assistant.streamlit.app)
-[![GitHub](https://img.shields.io/badge/GitHub-View_Repo-181717?style=for-the-badge&logo=github)](https://github.com/pratikshyadash2410/olist_ecommerce_sales_analysis)
-
----
-
-### 📊 Olist E-Commerce Sales Analysis
-> SQL-driven analysis of 100K+ Brazilian e-commerce transactions
-
-- Solved 7 real business use cases spanning revenue, customer behavior, and seller performance
-- Used JOINs, CTEs, window functions, and CASE statements for exploratory analysis
-- Built interactive Tableau dashboards to communicate findings across sales, customers, products, and logistics
-
-**Stack:** `SQL` `Tableau` `Python`
-
 [![GitHub](https://img.shields.io/badge/GitHub-View_Repo-181717?style=for-the-badge&logo=github)](https://github.com/pratikshyadash2410/olist_ecommerce_sales_analysis)
 
 ---
