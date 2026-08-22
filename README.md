@@ -1,8 +1,10 @@
 <!-- ===================== HEADER ===================== -->
 
-<h1 align="center">
-  Hi 👋, I'm Pratikshya Dash
-</h1>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=28&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&width=750&lines=Hi+%F0%9F%91%8B+I'm+Pratikshya+Dash" />
+</p>
+
+
 
 <p align="center">
   <strong>Data Analyst | Python • SQL • Power BI • Tableau • Excel</strong>
