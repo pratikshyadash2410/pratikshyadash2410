@@ -1,6 +1,8 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=32&duration=3000&pause=1000&color=7C5CFC&center=true&vCenter=true&width=600&height=60&lines=Hi+%F0%9F%91%8B+I'm+Pratikshya+Dash" />
+<img src="./header.svg" />
+
+<br/>
 
 <a href="https://linkedin.com/in/pratikshya-dash-955643284"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge" /></a>
 
@@ -35,26 +37,28 @@ I'm a data analyst focused on turning raw, messy datasets into insights someone 
 
 > From data cleaning and SQL modeling to AI-assisted querying and dashboarding, these are the tools powering my projects.
 
-**Languages**
+<div align="center">
 
-<div>
-<img src="https://skillicons.dev/icons?i=python,mysql,postgres&theme=dark" />
-</div>
+<table>
+<tr>
+<td align="center" width="100"><img src="https://skillicons.dev/icons?i=python" width="48"/><br/><b>Python</b></td>
+<td align="center" width="100"><img src="https://skillicons.dev/icons?i=mysql" width="48"/><br/><b>SQL</b></td>
+<td align="center" width="100"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="48"/><br/><b>Pandas</b></td>
+<td align="center" width="100"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="48"/><br/><b>NumPy</b></td>
+<td align="center" width="100"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" width="48"/><br/><b>Matplotlib</b></td>
+</tr>
+<tr>
+<td align="center" width="100"><img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/tableau.svg" width="48" style="background:white;border-radius:8px;padding:4px"/><br/><b>Tableau</b></td>
+<td align="center" width="100"><img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/powerbi.svg" width="48" style="background:white;border-radius:8px;padding:4px"/><br/><b>Power BI</b></td>
+<td align="center" width="100"><img src="https://skillicons.dev/icons?i=git" width="48"/><br/><b>Git</b></td>
+<td align="center" width="100"><img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/microsoftexcel.svg" width="48" style="background:white;border-radius:8px;padding:4px"/><br/><b>Excel</b></td>
+<td align="center" width="100"><img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/streamlit.svg" width="48" style="background:white;border-radius:8px;padding:4px"/><br/><b>Streamlit</b></td>
+</tr>
+</table>
 
-**Data & AI**
-
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
-<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge" />
 <img src="https://img.shields.io/badge/Google%20Gemini%20API-8E75B2?style=for-the-badge" />
 
-**BI & Tools**
-
-<img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" />
-<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
-<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
-<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" />
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+</div>
 
 <br/>
 
@@ -120,8 +124,10 @@ I'm passionate about using data and AI to solve real business problems. From bui
 <a href="mailto:pratikshyadash590@gmail.com"><img src="https://img.shields.io/badge/GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 <a href="https://github.com/pratikshyadash2410"><img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7C5CFC,100:E97627&height=150&section=header&text=Thanks%20for%20Visiting!&fontSize=32&fontColor=ffffff&desc=Let's%20Connect%20and%20Build%20Something%20Great&descAlignY=65&descSize=16" />
+<br/><br/>
 
-📌 Open to Work | 🚀 Ready to Contribute | 📊 Focused on Data & AI
+### ✨ Thanks for stopping by — let's build something great together!
+
+📌 Open to Work &nbsp;|&nbsp; 🚀 Ready to Contribute &nbsp;|&nbsp; 📊 Focused on Data & AI
 
 </div>
