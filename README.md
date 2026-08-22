@@ -14,8 +14,6 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=pratikshyadash2410&label=Profile%20Views&color=6C63FF&style=flat" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/pratikshyadash2410?label=Followers&style=flat&color=6C63FF" alt="Followers" />
   <a href="https://www.linkedin.com/in/your-linkedin-username/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-6C63FF?style=flat&logo=linkedin&logoColor=white" />
   </a>
