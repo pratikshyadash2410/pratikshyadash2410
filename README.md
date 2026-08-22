@@ -146,16 +146,3 @@ product specifications.
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pratikshyadash2410&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
 </p>
 
----
-
-# 🧠 What I'm Currently Learning
-
-```text
-SQL                    ████████████████████  Advanced
-Python                 ███████████████████░  Advanced
-Excel                  ███████████████████░  Advanced
-Power BI               ██████████████████░░  Intermediate
-Tableau                ██████████████████░░  Intermediate
-Machine Learning       ███████████████░░░░░  Intermediate
-AI for Data Analytics  ████████████░░░░░░░░  Learning
-
