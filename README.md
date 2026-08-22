@@ -7,15 +7,3 @@
 
 ---
 
-### 🧑‍💻 About Me
-
-**B.Tech Student** | *India 🇮🇳*
-
-I'm an aspiring data analyst focused on building analytical solutions—from raw data processing and SQL modeling to machine learning pipelines and interactive dashboards.
-
-- 🎓 **Education:** Pursuing B.Tech Degree
-- 🔍 **Currently:** Open to Data Analyst & Software Engineering roles (Entry level / Internships)
-- 🚀 **Latest Project:** Spotify Data Analytics Dashboard (Python + Pandas + Seaborn + Matplotlib)
-- 🧰 **Tools I reach for first:** Python, SQL, Pandas, Matplotlib, Seaborn
-- 💻 **Coding:** Solved 100+ Data Structure & SQL problems
-- 📫 **Reach me:** pratikshyadash590@gmail.com
