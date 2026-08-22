@@ -1,146 +1,92 @@
-<!-- ===================== HEADER ===================== -->
+<div align="center">
 
-<h1 align="center">
-  <code>Hi 👋, I'm Pratikshya Dash</code>
-</h1>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1E4D8C,100:22D3EE&height=200&section=header&text=Hi%20👋%20I'm%20Pratikshya%20Dash&fontSize=38&fontColor=ffffff&animation=fadeIn" />
 
-<p align="center">
-  <strong>Data Analyst | Python • SQL • Power BI • Tableau • Excel</strong>
-</p>
+<img src="https://komarev.com/ghpvc/?username=pratikshyadash2410&label=Profile%20Views&color=1E4D8C&style=for-the-badge" />
+<a href="https://linkedin.com/in/pratikshya-dash-955643284"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:pratikshyadash590@gmail.com"><img src="https://img.shields.io/badge/Gmail-Reach%20Out-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 
-<p align="center">
-  Turning raw data into meaningful insights, interactive dashboards, and
-  data-driven business solutions.
-</p>
+</div>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/your-linkedin-username/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-6C63FF?style=flat&logo=linkedin&logoColor=white" />
-  </a>
-</p>
+## 👩‍💻 About Me
 
----
+I'm a Computer Science graduate who turns raw, messy data into decisions someone can actually act on — using SQL, Python, and BI tools to get there.
 
-# 👩‍💻 About Me
+- 🎓 **Education:** B.Tech in Computer Science & Engineering, Trident Academy of Technology, Bhubaneswar (2022 – 2026)
+- 💼 **Experience:** Data Analyst Intern @ Unified Mentor (Jun 2025 – Sep 2025)
+- 🔭 **Currently:** Open to Data Analyst / Business Analyst roles (Fresher)
+- ⚡ **Latest project:** Extended my e-commerce analysis with an AI assistant that converts plain-English questions into SQL, auto-picks a chart, and writes the insight — [live demo here](https://olist-ai-assistant.streamlit.app)
+- 🛠️ **Tools I reach for first:** SQL, Python, Tableau, Power BI
+- 📫 **Reach me:** pratikshyadash590@gmail.com
 
-🎓 **B.Tech in Computer Science & Engineering**  
-📍 Bhubaneswar, Odisha, India
+## 🧰 Tech Stack
 
-I'm a **Data Analyst** passionate about transforming raw datasets into
-actionable insights using **SQL, Python, Excel, Power BI, and Tableau**.
+<div align="center">
+<img src="https://skillicons.dev/icons?i=python,mysql,postgres,tableau,powerbi&theme=dark" />
+</div>
 
-I enjoy working across the complete analytics workflow — from data cleaning
-and exploratory analysis to SQL querying, visualization, dashboard creation,
-and business storytelling.
+<div align="center">
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
+<img src="https://img.shields.io/badge/Google%20Gemini%20API-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" />
+<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" />
+</div>
 
-- 🔎 Currently looking for **Data Analyst / Data Analytics opportunities**
-- 🐍 Strong focus on **Python & SQL**
-- 📊 Building interactive dashboards using **Power BI & Tableau**
-- 🧹 Experienced in **Data Cleaning, EDA & Data Visualization**
-- 🤖 Exploring **Machine Learning & AI-powered analytics**
-- 💡 Interested in solving real world business problems through data
+## 🚀 Featured Projects
 
----
+### 🤖 AI-Powered Data Query Assistant (Olist Extension)
+> Extended a prior SQL + Tableau analysis into an AI layer that lets anyone query the data in plain English — no SQL required
 
-# 🛠️ Tech Stack & Tools
+- Converts natural-language business questions into SQL using the Google Gemini API
+- Auto-picks the right visualization (KPI / pie / bar / line) based on the shape of the result
+- Generates a written business insight for every query, and enforces read-only queries for safety
+- Deployed live on Streamlit Community Cloud
 
-### 💻 Languages
+**Stack:** `Python` `Streamlit` `Google Gemini API` `SQLite` `Altair`
 
-<p>
-  <img src="https://skillicons.dev/icons?i=python,mysql,html,css" />
-</p>
-
-### 📊 Data Analytics
-
-<p>
-  <img src="https://img.shields.io/badge/Python-Data%20Analysis-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL-Analysis-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Excel-Analytics-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" />
-  <img src="https://img.shields.io/badge/Power%20BI-Dashboards-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
-  <img src="https://img.shields.io/badge/Tableau-Visualization-E97627?style=for-the-badge&logo=tableau&logoColor=white" />
-</p>
-
-### 🐍 Python Libraries
-
-<p>
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
-  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white" />
-  <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
-  <img src="https://img.shields.io/badge/XGBoost-EC0000?style=for-the-badge&logo=xgboost&logoColor=white" />
-</p>
-
-### 🔧 Tools
-
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,jupyter" />
-</p>
+[![Live Demo](https://img.shields.io/badge/🔴_Live_Demo-Try_it-1E4D8C?style=for-the-badge)](https://olist-ai-assistant.streamlit.app)
+[![GitHub](https://img.shields.io/badge/GitHub-View_Repo-181717?style=for-the-badge&logo=github)](https://github.com/pratikshyadash2410/olist_ecommerce_sales_analysis)
 
 ---
 
-# 📊 Contribution Activity
+### 📊 Olist E-Commerce Sales Analysis
+> SQL-driven analysis of 100K+ Brazilian e-commerce transactions
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=pratikshyadash2410&theme=react-dark&hide_border=true" width="95%"/>
-</p>
+- Solved 7 real business use cases spanning revenue, customer behavior, and seller performance
+- Used JOINs, CTEs, window functions, and CASE statements for exploratory analysis
+- Built interactive Tableau dashboards to communicate findings across sales, customers, products, and logistics
 
----
+**Stack:** `SQL` `Tableau` `Python`
 
-# 🚀 Featured Projects
-
-## 🛒 Olist E-Commerce Sales Analysis
-
-**End to end e-commerce analytics project** using the Brazilian Olist dataset.
-
-- 📌 Analyzed customer, order, payment and product-level data
-- 🧹 Performed extensive data cleaning and preprocessing
-- 🐍 Used Python, Pandas and NumPy for exploratory analysis
-- 🗄️ Used SQL for business-focused analytical queries
-- 📊 Created visualizations to identify sales and customer trends
-- 💡 Extracted actionable business insights from the dataset
-
-**Stack:** `Python` `Pandas` `NumPy` `SQL` `Matplotlib` `Excel`
-
-🔗 **[View Project](https://github.com/pratikshyadash2410/olist_ecommerce_sales_analysis)**
+[![GitHub](https://img.shields.io/badge/GitHub-View_Repo-181717?style=for-the-badge&logo=github)](https://github.com/pratikshyadash2410/olist_ecommerce_sales_analysis)
 
 ---
 
-## ⚡ EV Sales Analysis in India
+### ⚡ Electric Vehicle (EV) Sales Analysis & Forecasting
+> Predictive modeling on EV adoption trends across Indian states
 
-**Data analytics project exploring electric vehicle sales across India.**
+- Built forecasting models using Linear Regression (**Train R²: 98.56%**, **Test R²: 93.93%**) and Holt-Winters Exponential Smoothing
+- Identified top-performing states and vehicle segments to support adoption strategy
+- Created an interactive Tableau dashboard tracking penetration and year-over-year growth
 
-- 📊 Analyzed EV sales trends across states and vehicle categories
-- 🧹 Cleaned and transformed a large dataset
-- 🔎 Performed exploratory data analysis
-- 📈 Identified growth patterns and state-wise trends
-- 🤖 Applied forecasting techniques to analyze future trends
-- 📊 Created visualizations for business-oriented insights
+**Stack:** `Python` `Scikit-learn` `Tableau`
 
-**Stack:** `Python` `Pandas` `NumPy` `Matplotlib` `Scikit-learn` `XGBoost`
+## 📈 GitHub Stats
 
-🔗 **[View Project](https://github.com/pratikshyadash2410)**
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=pratikshyadash2410&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=pratikshyadash2410&theme=tokyonight&hide_border=true" height="165"/>
+</div>
 
----
+<div align="center">
 
-## 💻 Laptop Price Prediction
+### 📬 Connect With Me
 
-Machine Learning project focused on predicting laptop prices based on
-product specifications.
+<a href="https://linkedin.com/in/pratikshya-dash-955643284"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:pratikshyadash590@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 
-- Data preprocessing
-- Feature engineering
-- Exploratory Data Analysis
-- Machine Learning model development
-- Model evaluation
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:22D3EE,100:1E4D8C&height=120&section=footer" />
 
-**Stack:** `Python` `Pandas` `NumPy` `Scikit-learn` `XGBoost`
-
----
-
-# 📈 GitHub Statistics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pratikshyadash2410&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pratikshyadash2410&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
-</p>
-
+</div>
