@@ -1,52 +1,78 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1E4D8C,100:22D3EE&height=200&section=header&text=Hi%20👋%20I'm%20Pratikshya%20Dash&fontSize=38&fontColor=ffffff&animation=fadeIn" />
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=32&duration=3000&pause=1000&color=7C5CFC&center=true&vCenter=true&width=600&height=60&lines=Hi+%F0%9F%91%8B+I'm+Pratikshya+Dash" />
 
-<img src="https://komarev.com/ghpvc/?username=pratikshyadash2410&label=Profile%20Views&color=1E4D8C&style=for-the-badge" />
-<a href="https://linkedin.com/in/pratikshya-dash-955643284"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="mailto:pratikshyadash590@gmail.com"><img src="https://img.shields.io/badge/Gmail-Reach%20Out-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<img src="https://komarev.com/ghpvc/?username=pratikshyadash2410&label=Profile%20Views&color=222222&style=for-the-badge" />
+<img src="https://img.shields.io/github/followers/pratikshyadash2410?label=Followers&style=for-the-badge&color=222222" />
+<a href="https://linkedin.com/in/pratikshya-dash-955643284"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge" /></a>
 
 </div>
 
-## 👩‍💻 About Me
+<br/>
 
-I'm a Computer Science graduate who turns raw, messy data into decisions someone can actually act on — using SQL, Python, and BI tools to get there.
+## 🧑 About Me
 
-- 🎓 **Education:** B.Tech in Computer Science & Engineering, Trident Academy of Technology, Bhubaneswar (2022 – 2026)
+**B.Tech in Computer Science & Engineering | Bhubaneswar, IN**
+
+I'm a data analyst focused on turning raw, messy datasets into insights someone can actually act on — from SQL modeling and exploratory analysis to AI-assisted querying and interactive dashboards. My work sits at the intersection of **data analysis, business intelligence, and applied AI**.
+
+- 🎓 **Education:** Trident Academy of Technology, Bhubaneswar
 - 💼 **Experience:** Data Analyst Intern @ Unified Mentor (Jun 2025 – Sep 2025)
-- 🔭 **Currently:** Open to Data Analyst / Business Analyst roles (Fresher)
-- ⚡ **Latest project:** Extended my e-commerce analysis with an AI assistant that converts plain-English questions into SQL, auto-picks a chart, and writes the insight — [live demo here](https://olist-ai-assistant.streamlit.app)
+- 🔍 **Currently:** Open to Data Analyst / Business Analyst roles (Fresher)
+- 🚀 **Latest Project:** AI-Powered Data Query Assistant — plain-English to SQL, auto-charting & insights (Streamlit + Gemini API + SQLite)
 - 🛠️ **Tools I reach for first:** SQL, Python, Tableau, Power BI
-- 📫 **Reach me:** pratikshyadash590@gmail.com
+- 📧 **Reach me:** pratikshyadash590@gmail.com
 
-## 🧰 Tech Stack
+<br/>
+
+## 📊 Contribution Activity
 
 <div align="center">
-<img src="https://skillicons.dev/icons?i=python,mysql,postgres,tableau,powerbi&theme=dark" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=pratikshyadash2410&theme=react-dark&hide_border=true&area=true" width="100%" />
 </div>
 
-<div align="center">
+<br/>
+
+## 🧰 Tech Stack & Tools
+
+> From data cleaning and SQL modeling to AI-assisted querying and dashboarding, these are the tools powering my projects.
+
+**Languages**
+
+<div>
+<img src="https://skillicons.dev/icons?i=python,mysql,postgres&theme=dark" />
+</div>
+
+**Data & AI**
+
 <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
 <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
 <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Google%20Gemini%20API-8E75B2?style=for-the-badge" />
+
+**BI & Tools**
+
+<img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" />
+<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
 <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
-<img src="https://img.shields.io/badge/Google%20Gemini%20API-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" />
 <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" />
-</div>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+
+<br/>
 
 ## 🚀 Featured Projects
 
 ### 🤖 AI-Powered Data Query Assistant (Olist Extension)
-> Extended a prior SQL + Tableau analysis into an AI layer that lets anyone query the data in plain English — no SQL required
+> Extended a prior SQL + Tableau analysis into an AI layer that lets anyone query e-commerce data in plain English — no SQL required
 
 - Converts natural-language business questions into SQL using the Google Gemini API
-- Auto-picks the right visualization (KPI / pie / bar / line) based on the shape of the result
-- Generates a written business insight for every query, and enforces read-only queries for safety
+- Auto-picks the right chart (KPI / pie / bar / line) based on the shape of the result, and writes a business insight for every query
+- Restricts execution to read-only `SELECT` queries for safety, and caps large result sets for performance
 - Deployed live on Streamlit Community Cloud
 
 **Stack:** `Python` `Streamlit` `Google Gemini API` `SQLite` `Altair`
 
-[![Live Demo](https://img.shields.io/badge/🔴_Live_Demo-Try_it-1E4D8C?style=for-the-badge)](https://olist-ai-assistant.streamlit.app)
+[![Live Demo](https://img.shields.io/badge/🔴_Live_Demo-Try_it-E63946?style=for-the-badge)](https://olist-ai-assistant.streamlit.app)
 [![GitHub](https://img.shields.io/badge/GitHub-View_Repo-181717?style=for-the-badge&logo=github)](https://github.com/pratikshyadash2410/olist_ecommerce_sales_analysis)
 
 ---
@@ -73,20 +99,31 @@ I'm a Computer Science graduate who turns raw, messy data into decisions someone
 
 **Stack:** `Python` `Scikit-learn` `Tableau`
 
-## 📈 GitHub Stats
+<br/>
+
+## 💡 What Drives Me
+
+> *"Good data tells a story — I just make sure someone's listening."*
+
+I'm passionate about using data and AI to solve real business problems. From building an AI query assistant to uncovering insights in raw sales data, I believe in making information accessible to whoever needs it — technical or not.
+
+### 🎯 Current Focus
+- 🔍 Actively seeking opportunities in **Data Analytics & Business Intelligence**
+- 📚 Learning **AI-assisted analytics** and natural-language interfaces to data
+- 🚀 Building **portfolio projects that solve real business questions**
+
+<br/>
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=pratikshyadash2410&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=pratikshyadash2410&theme=tokyonight&hide_border=true" height="165"/>
-</div>
 
-<div align="center">
+## 📬 Connect With Me
 
-### 📬 Connect With Me
+<a href="https://linkedin.com/in/pratikshya-dash-955643284"><img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:pratikshyadash590@gmail.com"><img src="https://img.shields.io/badge/GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://github.com/pratikshyadash2410"><img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 
-<a href="https://linkedin.com/in/pratikshya-dash-955643284"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="mailto:pratikshyadash590@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7C5CFC,100:E97627&height=150&section=header&text=Thanks%20for%20Visiting!&fontSize=32&fontColor=ffffff&desc=Let's%20Connect%20and%20Build%20Something%20Great&descAlignY=65&descSize=16" />
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:22D3EE,100:1E4D8C&height=120&section=footer" />
+📌 Open to Work | 🚀 Ready to Contribute | 📊 Focused on Data & AI
 
 </div>
