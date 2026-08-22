@@ -1,7 +1,6 @@
 <div align="center">
 
 <img src="./header.svg" />
-
 <img src="https://readme-typing-svg.demolab.com/?font=Quicksand&weight=600&size=20&duration=2500&pause=1200&color=6C63FF&center=true&vCenter=true&width=600&height=40&lines=Aspiring+Data+Analyst;Turning+raw+data+into+business+decisions" />
 
 <br/>
