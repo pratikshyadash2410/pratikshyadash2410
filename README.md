@@ -2,8 +2,6 @@
 
 <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=32&duration=3000&pause=1000&color=7C5CFC&center=true&vCenter=true&width=600&height=60&lines=Hi+%F0%9F%91%8B+I'm+Pratikshya+Dash" />
 
-<img src="https://komarev.com/ghpvc/?username=pratikshyadash2410&label=Profile%20Views&color=222222&style=for-the-badge" />
-<img src="https://img.shields.io/github/followers/pratikshyadash2410?label=Followers&style=for-the-badge&color=222222" />
 <a href="https://linkedin.com/in/pratikshya-dash-955643284"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge" /></a>
 
 </div>
