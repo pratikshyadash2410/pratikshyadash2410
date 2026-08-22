@@ -5,8 +5,6 @@
 
 <br/>
 
-<a href="https://linkedin.com/in/pratikshya-dash-955643284"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge" /></a>
-
 </div>
 
 <br/>
@@ -15,12 +13,12 @@
 
 **B.Tech in Computer Science & Engineering | Bhubaneswar, IN**
 
-I'm an aspiring Data Analyst who loves the process of turning messy, real-world data into decisions someone can actually act on — from writing the right SQL query to building a dashboard that makes the answer impossible to miss. Lately, I've been exploring how AI can make that process faster and more accessible, without cutting corners on rigor.
+I'm an aspiring Data Analyst who loves the process of turning messy, real world data into decisions someone can actually act on — from writing the right SQL query to building a dashboard that makes the answer impossible to miss. Lately, I've been exploring how AI can make that process faster and more accessible, without cutting corners on rigor.
 
 - 🎓 **Education:** Trident Academy of Technology, Bhubaneswar
 - 💼 **Experience:** Data Analyst Intern @ Unified Mentor (Jun 2025 – Sep 2025)
 - 🔍 **Currently:** Open to Data Analyst / Business Analyst roles (Fresher)
-- 🚀 **Latest Project:** AI-Powered Data Query Assistant — plain-English to SQL, auto-charting & insights (Streamlit + Gemini API + SQLite)
+- 🚀 **Latest Project:** AI-Powered Data Query Assistant — plain-English to SQL, auto charting & insights (Streamlit + Gemini API + SQLite)
 - 🛠️ **Tools I reach for first:** SQL, Python, Tableau, Power BI
 - 📧 **Reach me:** pratikshyadash590@gmail.com
 
