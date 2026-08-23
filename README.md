@@ -63,8 +63,6 @@ I'm an aspiring Data Analyst passionate about turning raw and complex data into 
 
 </div>
 
-<br/>
-
 ## 🚀 Featured Projects
 
 ### 📊 Olist E-Commerce Sales Analysis + AI Query Assistant
