@@ -122,8 +122,6 @@ I’m passionate about turning complex data into clear, actionable insights that
 
 ### 🎯 Current Focus
 
-### 🎯 Current Focus
-
 🔍 **Exploring entry-level opportunities** in Data Analytics & Business Intelligence
 
 📚 Exploring AI integration in Data Analytics** and learning how AI can enhance analytics workflows
