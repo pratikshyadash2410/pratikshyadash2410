@@ -16,8 +16,6 @@ Passionate about turning raw data into business decisions through analytics, das
 
 </div>
 
-font=Montserrat&weight=600&size=20&duration=2500&pause=1200&color=6C63FF&center=true&vCenter=true&width=600&height=35&lines=Aspiring+Data+Analyst;Turning+raw+data+into+business+decisions" />
-
 </div>
 
 <br/>
