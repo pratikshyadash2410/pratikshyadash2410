@@ -8,8 +8,6 @@
 
 Passionate about transforming data into actionable business insights through analytics, visualization and AI-powered solutions.
 
-<img src="https://readme-typing-svg.demolab.com/?font=Montserrat&weight=600&size=24&duration=2500&pause=1200&color=7C5CFC&center=true&vCenter=true&width=400&height=40&lines=Data+Analyst" />
-
 <a href="https://linkedin.com/in/pratikshya-dash-955643284"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge" /></a>
 <a href="https://github.com/pratikshyadash2410"><img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github" /></a>
 
