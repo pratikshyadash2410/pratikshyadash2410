@@ -24,15 +24,15 @@ Passionate about transforming data into actionable business insights through ana
 
 ## 👩‍💼 About Me
 
-**B.Tech in Computer Science & Engineering | Bhubaneswar, IN**
+**B.Tech in Computer Science & Engineering | Bhubaneswar, India**
 
-I'm an aspiring Data Analyst who loves the process of turning messy, real world data into decisions someone can actually act on — from writing the right SQL query to building a dashboard that makes the answer impossible to miss. Lately, I've been exploring how AI can make that process faster and more accessible, without cutting corners on rigor.
+I'm an aspiring Data Analyst passionate about turning raw and complex data into clear, actionable insights that support better business decisions. I enjoy exploring data, building dashboards and uncovering patterns that tell a meaningful story. I'm also exploring how AI can be integrated into analytics workflows to make data analysis more efficient, accessible and insightful.
 
-- 🎓 **Education:** Trident Academy of Technology, Bhubaneswar
+- 🎓 **Education:** B.Tech in Computer Science & Engineering — Trident Academy of Technology, Bhubaneswar
 - 💼 **Experience:** Data Analyst Intern @ Unified Mentor (Jun 2025 – Sep 2025)
-- 🔍 **Currently:** Open to Data Analyst / Business Analyst roles (Fresher)
-- 🚀 **Latest Project:** AI-Powered Data Query Assistant — plain-English to SQL, auto-charting & insights (Streamlit + Gemini API + SQLite)
-- 🛠️ **Tools I reach for first:** SQL, Python, Tableau, Power BI
+- 🔍 **Currently:** Seeking entry-level opportunities in Data Analytics & Business Intelligence
+- 🚀 **Featured Project:** AI-Powered Data Query Assistant — natural language to SQL, automated visualizations & insights (Streamlit + Gemini API + SQLite)
+- 🛠️ **Core Tools:** SQL, Python, Power BI, Tableau, Excel
 - 📧 **Reach me:** pratikshyadash590@gmail.com
 
 <br/>
@@ -127,11 +127,13 @@ I’m passionate about turning complex data into clear, actionable insights that
 
 ### 🎯 Current Focus
 
-🔍 Actively seeking opportunities in **Data Analytics & Business Intelligence**
+### 🎯 Current Focus
 
-📚 Learning **AI-assisted analytics** and natural-language interfaces to data
+🔍 **Exploring entry-level opportunities** in Data Analytics & Business Intelligence
 
-🚀 Building **projects that solve real business questions**
+📚 Exploring AI integration in Data Analytics** and learning how AI can enhance analytics workflows
+
+🚀 **Building practical projects** focused on real world business problems
 
 </div>
 
