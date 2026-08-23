@@ -13,8 +13,6 @@ Passionate about transforming data into actionable business insights through ana
 
 </div>
 
-</div>
-
 <br/>
 
 ---
