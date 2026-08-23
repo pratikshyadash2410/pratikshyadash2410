@@ -43,8 +43,6 @@ I'm an aspiring Data Analyst passionate about turning raw and complex data into 
 
 <br/>
 
-## 🧰 Tech Stack & Tools
-
 ## 🛠️ Tech Stack
 
 ### 📊 Data Analytics
@@ -62,39 +60,6 @@ I'm an aspiring Data Analyst passionate about turning raw and complex data into 
 ### 🛠️ Tools & Workflow
 
 <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" /> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-
-<div align="center">
-
-**Languages**
-
-<table>
-<tr>
-<td align="center" width="100"><img src="https://skillicons.dev/icons?i=python" width="48"/><br/><b>Python</b></td>
-<td align="center" width="100"><img src="https://skillicons.dev/icons?i=mysql" width="48"/><br/><b>SQL</b></td>
-</tr>
-</table>
-
-**AI / ML & Data**
-
-<table>
-<tr>
-<td align="center" width="100"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="48"/><br/><b>NumPy</b></td>
-<td align="center" width="100"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="48"/><br/><b>Pandas</b></td>
-<td align="center" width="100"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" width="48"/><br/><b>Scikit-learn</b></td>
-<td align="center" width="100"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" width="48"/><br/><b>Matplotlib</b></td>
-</tr>
-</table>
-
-**Tools & Frameworks**
-
-<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
-<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
-<img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" />
-<img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-
-<br/>
-<img src="https://img.shields.io/badge/Google%20Gemini%20API-8E75B2?style=for-the-badge" />
 
 </div>
 
