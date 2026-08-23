@@ -4,9 +4,9 @@
 
 ---
 
-**Aspiring Data Analyst | SQL & Python Enthusiast | AI-Curious**
+**Aspiring Data Analyst | Business Intelligence | Data Storytelling | AI Driven Analytics**
 
-Passionate about turning raw data into business decisions through analytics, dashboards, and AI-powered tools.
+Passionate about transforming data into actionable business insights through analytics, visualization and AI-powered solutions.
 
 <img src="https://readme-typing-svg.demolab.com/?font=Montserrat&weight=600&size=24&duration=2500&pause=1200&color=7C5CFC&center=true&vCenter=true&width=400&height=40&lines=Data+Analyst" />
 
@@ -26,7 +26,7 @@ Passionate about turning raw data into business decisions through analytics, das
 
 **B.Tech in Computer Science & Engineering | Bhubaneswar, IN**
 
-I'm an aspiring Data Analyst who loves the process of turning messy, real-world data into decisions someone can actually act on — from writing the right SQL query to building a dashboard that makes the answer impossible to miss. Lately, I've been exploring how AI can make that process faster and more accessible, without cutting corners on rigor.
+I'm an aspiring Data Analyst who loves the process of turning messy, real world data into decisions someone can actually act on — from writing the right SQL query to building a dashboard that makes the answer impossible to miss. Lately, I've been exploring how AI can make that process faster and more accessible, without cutting corners on rigor.
 
 - 🎓 **Education:** Trident Academy of Technology, Bhubaneswar
 - 💼 **Experience:** Data Analyst Intern @ Unified Mentor (Jun 2025 – Sep 2025)
@@ -117,16 +117,23 @@ I'm an aspiring Data Analyst who loves the process of turning messy, real-world 
 
 <br/>
 
+<div align="center">
+
 ## 💡 What Drives Me
 
 > *"Good data tells a story — I just make sure someone's listening."*
 
-I'm passionate about using data and AI to solve real business problems. From building an AI query assistant to uncovering insights in raw sales data, I believe in making information accessible to whoever needs it — technical or not.
+I’m passionate about turning complex data into clear, actionable insights that help businesses make better decisions. I combine analytics, visualization and AI to explore data, uncover meaningful patterns and build solutions that make insights easier to understand and act on.
 
 ### 🎯 Current Focus
-- 🔍 Actively seeking opportunities in **Data Analytics & Business Intelligence**
-- 📚 Learning **AI-assisted analytics** and natural-language interfaces to data
-- 🚀 Building **portfolio projects that solve real business questions**
+
+🔍 Actively seeking opportunities in **Data Analytics & Business Intelligence**
+
+📚 Learning **AI-assisted analytics** and natural-language interfaces to data
+
+🚀 Building **projects that solve real business questions**
+
+</div>
 
 <br/>
 
@@ -140,8 +147,8 @@ I'm passionate about using data and AI to solve real business problems. From bui
 
 <br/><br/>
 
-### ✨ Thanks for stopping by — let's build something great together!
+### ✨ Thanks for stopping by — let's connect, collaborate and build something meaningful with data.
 
-📌 Open to Work &nbsp;|&nbsp; 🚀 Ready to Contribute &nbsp;|&nbsp; 📊 Focused on Data & AI
+🎯 **Open to Entry-Level Data Analytics & Business Intelligence Opportunities**
 
 </div>
