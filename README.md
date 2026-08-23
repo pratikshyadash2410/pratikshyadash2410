@@ -45,8 +45,6 @@ I'm an aspiring Data Analyst passionate about turning raw and complex data into 
 
 ## 🧰 Tech Stack & Tools
 
-<div align="center">
-
 ## 🛠️ Tech Stack
 
 ### 📊 Data Analytics
@@ -58,15 +56,11 @@ I'm an aspiring Data Analyst passionate about turning raw and complex data into 
 <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" />
 <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge" />
 
-<br/><br/>
-
 ### 📈 Business Intelligence & Visualization
 
 <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
 <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" />
 <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
-
-<br/><br/>
 
 ### 🤖 AI & Machine Learning
 
@@ -74,15 +68,10 @@ I'm an aspiring Data Analyst passionate about turning raw and complex data into 
 <img src="https://img.shields.io/badge/XGBoost-006400?style=for-the-badge" />
 <img src="https://img.shields.io/badge/Gemini%20API-8E75B2?style=for-the-badge&logo=google&logoColor=white" />
 
-<br/><br/>
-
 ### 🛠️ Tools & Workflow
 
 <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-
-</div>
-
 
 <div align="center">
 
