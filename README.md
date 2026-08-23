@@ -1,9 +1,7 @@
 <div align="center">
 
-<img src="./header.svg" />
-<img src="https://readme-typing-svg.demolab.com/?font=Quicksand&weight=600&size=20&duration=2500&pause=1200&color=6C63FF&center=true&vCenter=true&width=600&height=40&lines=Aspiring+Data+Analyst;Turning+raw+data+into+business+decisions" />
-
-<br/>
+<img src="./header.svg" /><br/>
+<img src="https://readme-typing-svg.demolab.com/?font=Montserrat&weight=600&size=20&duration=2500&pause=1200&color=6C63FF&center=true&vCenter=true&width=600&height=35&lines=Aspiring+Data+Analyst;Turning+raw+data+into+business+decisions" />
 
 </div>
 
@@ -13,12 +11,12 @@
 
 **B.Tech in Computer Science & Engineering | Bhubaneswar, IN**
 
-I'm an aspiring Data Analyst who loves the process of turning messy, real world data into decisions someone can actually act on — from writing the right SQL query to building a dashboard that makes the answer impossible to miss. Lately, I've been exploring how AI can make that process faster and more accessible, without cutting corners on rigor.
+I'm an aspiring Data Analyst who loves the process of turning messy, real-world data into decisions someone can actually act on — from writing the right SQL query to building a dashboard that makes the answer impossible to miss. Lately, I've been exploring how AI can make that process faster and more accessible, without cutting corners on rigor.
 
 - 🎓 **Education:** Trident Academy of Technology, Bhubaneswar
 - 💼 **Experience:** Data Analyst Intern @ Unified Mentor (Jun 2025 – Sep 2025)
 - 🔍 **Currently:** Open to Data Analyst / Business Analyst roles (Fresher)
-- 🚀 **Latest Project:** AI-Powered Data Query Assistant — plain-English to SQL, auto charting & insights (Streamlit + Gemini API + SQLite)
+- 🚀 **Latest Project:** AI-Powered Data Query Assistant — plain-English to SQL, auto-charting & insights (Streamlit + Gemini API + SQLite)
 - 🛠️ **Tools I reach for first:** SQL, Python, Tableau, Power BI
 - 📧 **Reach me:** pratikshyadash590@gmail.com
 
@@ -60,16 +58,13 @@ I'm an aspiring Data Analyst who loves the process of turning messy, real world 
 
 **Tools & Frameworks**
 
-<table>
-<tr>
-<td align="center" width="100"><img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/streamlit.svg" width="48" style="background:white;border-radius:8px;padding:4px"/><br/><b>Streamlit</b></td>
-<td align="center" width="100"><img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/powerbi.svg" width="48" style="background:white;border-radius:8px;padding:4px"/><br/><b>Power BI</b></td>
-<td align="center" width="100"><img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/tableau.svg" width="48" style="background:white;border-radius:8px;padding:4px"/><br/><b>Tableau</b></td>
-<td align="center" width="100"><img src="https://skillicons.dev/icons?i=jupyter" width="48"/><br/><b>Jupyter</b></td>
-<td align="center" width="100"><img src="https://skillicons.dev/icons?i=git" width="48"/><br/><b>Git</b></td>
-</tr>
-</table>
+<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
+<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+<img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" />
+<img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 
+<br/>
 <img src="https://img.shields.io/badge/Google%20Gemini%20API-8E75B2?style=for-the-badge" />
 
 </div>
