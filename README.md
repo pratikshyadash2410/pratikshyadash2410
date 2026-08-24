@@ -33,36 +33,6 @@ Currently, I'm expanding into **AI-driven analytics**, exploring how AI can be i
 
 ## 🛠️ Tech Stack
 
-## 🛠️ Technical Skills
-
----
-
-### 📊 Data Analytics
-
-<img src="https://skillicons.dev/icons?i=python" width="60" /> <img src="https://skillicons.dev/icons?i=mysql" width="60" /> <img src="https://skillicons.dev/icons?i=pandas" width="60" /> <img src="https://skillicons.dev/icons?i=numpy" width="60" /> <img src="https://skillicons.dev/icons?i=matplotlib" width="60" /> <img src="https://skillicons.dev/icons?i=excel" width="60" />
-
-<br/><br/>
-
-### 📈 Business Intelligence & Visualization
-
-<img src="https://skillicons.dev/icons?i=powerbi" width="60" /> <img src="https://skillicons.dev/icons?i=tableau" width="60" /> <img src="https://skillicons.dev/icons?i=streamlit" width="60" />
-
-<br/><br/>
-
-### 🤖 AI & Machine Learning
-
-<img src="https://skillicons.dev/icons?i=sklearn" width="60" /> <img src="https://skillicons.dev/icons?i=xgboost" width="60" /> <img src="https://skillicons.dev/icons?i=gemini" width="60" />
-
-<br/><br/>
-
-### 🛠️ Tools & Workflow
-
-<img src="https://skillicons.dev/icons?i=jupyter,github" height="60" />
-
-<br/>
-
-
-
 ### 📊 Data Analytics
 
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" /> <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" /> <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" /> <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" /> <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge" />
