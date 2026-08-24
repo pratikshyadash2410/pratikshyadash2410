@@ -4,15 +4,11 @@
 
 ---
 
-I'm passionate about turning complex data into clear, actionable insights that help businesses make better decisions. I enjoy exploring data, building dashboards, uncovering meaningful patterns, and exploring how AI can be integrated into analytics workflows.
-
----
-
 ## About Me
 
 **B.Tech in Computer Science & Engineering | Bhubaneswar, India**
 
-I'm an aspiring Data Analyst who enjoys turning raw data into meaningful insights and clear business stories. I work with data to uncover patterns, build dashboards, and understand the questions behind the numbers. I'm also exploring how AI can be integrated into analytics to make data analysis more efficient and accessible.
+I turn data into decisions by combining analytical thinking, visualization and AI. I enjoy uncovering the story behind the numbers and building practical, intuitive solutions that make complex information easier to understand and act on.
 
 -  **Education:** B.Tech in Computer Science & Engineering — Trident Academy of Technology
 -  **Experience:** Data Analyst Intern — Unified Mentor
