@@ -1,3 +1,33 @@
+# Pratikshya Dash
+
+**Aspiring Data Analyst · Business Intelligence · Data Storytelling · AI-Driven Analytics**
+
+---
+
+I'm passionate about turning complex data into clear, actionable insights that help businesses make better decisions. I enjoy exploring data, building dashboards, uncovering meaningful patterns, and exploring how AI can be integrated into analytics workflows.
+
+---
+
+## 👩‍💼 About Me
+
+**B.Tech in Computer Science & Engineering | Bhubaneswar, India**
+
+- 🎓 **Education:** Trident Academy of Technology, Bhubaneswar
+- 💼 **Experience:** Data Analyst Intern @ Unified Mentor
+- 📊 **Focus:** Data Analytics & Business Intelligence
+- 🤖 **Exploring:** AI integration in Data Analytics
+- 🚀 **Featured Project:** AI-Powered Data Query Assistant
+- 🔍 **Status:** Open to Entry-Level Data Analytics & Business Intelligence Opportunities
+
+---
+
+
+
+
+
+
+
+
 <div align="center">
 
 <h1>Hi 👋, I'm Pratikshya Dash</h1>
@@ -44,6 +74,36 @@ I'm an aspiring Data Analyst passionate about turning raw and complex data into 
 <br/>
 
 ## 🛠️ Tech Stack
+
+## 🛠️ Technical Skills
+
+---
+
+### 📊 Data Analytics
+
+<img src="https://skillicons.dev/icons?i=python" width="60" /> <img src="https://skillicons.dev/icons?i=mysql" width="60" /> <img src="https://skillicons.dev/icons?i=pandas" width="60" /> <img src="https://skillicons.dev/icons?i=numpy" width="60" /> <img src="https://skillicons.dev/icons?i=matplotlib" width="60" /> <img src="https://skillicons.dev/icons?i=excel" width="60" />
+
+<br/><br/>
+
+### 📈 Business Intelligence & Visualization
+
+<img src="https://skillicons.dev/icons?i=powerbi" width="60" /> <img src="https://skillicons.dev/icons?i=tableau" width="60" /> <img src="https://skillicons.dev/icons?i=streamlit" width="60" />
+
+<br/><br/>
+
+### 🤖 AI & Machine Learning
+
+<img src="https://skillicons.dev/icons?i=sklearn" width="60" /> <img src="https://skillicons.dev/icons?i=xgboost" width="60" /> <img src="https://skillicons.dev/icons?i=gemini" width="60" />
+
+<br/><br/>
+
+### 🛠️ Tools & Workflow
+
+<img src="https://skillicons.dev/icons?i=jupyter,github" height="60" />
+
+<br/>
+
+
 
 ### 📊 Data Analytics
 
