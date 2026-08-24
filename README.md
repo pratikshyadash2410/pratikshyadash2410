@@ -8,59 +8,17 @@ I'm passionate about turning complex data into clear, actionable insights that h
 
 ---
 
-## 👩‍💼 About Me
+## About Me
 
-**B.Tech in Computer Science & Engineering | Bhubaneswar, India**
+**B.Tech in Computer Science & Engineering · Trident Academy of Technology · Bhubaneswar, India**
 
-- 🎓 **Education:** Trident Academy of Technology, Bhubaneswar
-- 💼 **Experience:** Data Analyst Intern @ Unified Mentor
-- 📊 **Focus:** Data Analytics & Business Intelligence
-- 🤖 **Exploring:** AI integration in Data Analytics
-- 🚀 **Featured Project:** AI-Powered Data Query Assistant
-- 🔍 **Status:** Open to Entry-Level Data Analytics & Business Intelligence Opportunities
+I'm an aspiring Data Analyst interested in turning complex data into clear, actionable insights. I enjoy exploring patterns, building dashboards, and using data storytelling to connect analysis with real business questions.
 
----
+Currently, I'm expanding into **AI-driven analytics**, exploring how AI can be integrated into data workflows to make analysis more efficient, accessible, and insightful.
 
-
-
-
-
-
-
-
-<div align="center">
-
-<h1>Hi 👋, I'm Pratikshya Dash</h1>
+**Data Analytics · Business Intelligence · Data Storytelling · AI-Driven Analytics**
 
 ---
-
-**Aspiring Data Analyst | Business Intelligence | Data Storytelling | AI Driven Analytics**
-
-Passionate about transforming data into actionable business insights through analytics, visualization and AI-powered solutions.
-
-<a href="https://linkedin.com/in/pratikshya-dash-955643284"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge" /></a>
-<a href="https://github.com/pratikshyadash2410"><img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github" /></a>
-
-</div>
-
-<br/>
-
----
-
-## 👩‍💼 About Me
-
-**B.Tech in Computer Science & Engineering | Bhubaneswar, India**
-
-I'm an aspiring Data Analyst passionate about turning raw and complex data into clear, actionable insights that support better business decisions. I enjoy exploring data, building dashboards and uncovering patterns that tell a meaningful story. I'm also exploring how AI can be integrated into analytics workflows to make data analysis more efficient, accessible and insightful.
-
-- 🎓 **Education:** B.Tech in Computer Science & Engineering — Trident Academy of Technology, Bhubaneswar
-- 💼 **Experience:** Data Analyst Intern @ Unified Mentor (Jun 2025 – Sep 2025)
-- 🔍 **Currently:** Seeking entry-level opportunities in Data Analytics & Business Intelligence
-- 🚀 **Featured Project:** AI-Powered Data Query Assistant — natural language to SQL, automated visualizations & insights (Streamlit + Gemini API + SQLite)
-- 🛠️ **Core Tools:** SQL, Python, Power BI, Tableau, Excel
-- 📧 **Reach me:** pratikshyadash590@gmail.com
-
-<br/>
 
 ## 📊 Contribution Activity
 
