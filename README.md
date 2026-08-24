@@ -10,16 +10,15 @@
 
 I turn data into decisions by combining analytical thinking, visualization and AI. I enjoy uncovering the story behind the numbers and building practical, intuitive solutions that make complex information easier to understand and act on.
 
--  **Education:** B.Tech in Computer Science & Engineering — Trident Academy of Technology
--  **Experience:** Data Analyst Intern — Unified Mentor
+-  **Education:** B.Tech in Computer Science & Engineering
+-  **Experience:** Data Analyst Intern @Unified Mentor 
 -  **Interests:** Data Analytics, Business Intelligence & Data Storytelling
 -  **Currently exploring:** AI integration in Data Analytics
--  **Featured Project:** AI-Powered Data Query Assistant
 -  **Open to:** Entry-Level Data Analyst & Business Intelligence Opportunities
 
 ---
 
-## 📊 Contribution Activity
+## Contribution Activity
 
 <div align="center">
   
@@ -81,12 +80,6 @@ I turn data into decisions by combining analytical thinking, visualization and A
 <br/>
 
 <div align="center">
-
-## 💡 What Drives Me
-
-> *"Good data tells a story — I just make sure someone's listening."*
-
-I’m passionate about turning complex data into clear, actionable insights that help businesses make better decisions. I combine analytics, visualization and AI to explore data, uncover meaningful patterns and build solutions that make insights easier to understand and act on.
 
 ### 🎯 Current Focus
 
