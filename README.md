@@ -1,7 +1,6 @@
 # Pratikshya Dash
 
 **Aspiring Data Analyst · Business Intelligence · Data Storytelling · AI-Driven Analytics**
-
 ---
 
 ## About Me
