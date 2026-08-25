@@ -31,13 +31,27 @@ I turn data into decisions by combining analytical thinking, visualization and A
 
 ## 🧰 Tech Stack
 
-|                              |                                                                           |
-| ---------------------------- | ------------------------------------------------------------------------- |
-| 📊 **Analytics**             | `Python` · `pandas` · `NumPy` · `SQL` · `PostgreSQL` · `MySQL` · `SQLite` |
-| 📈 **Business Intelligence** | `Tableau` · `Power BI` · `DAX` · `Power Query` · `Excel`                  |
-| 🤖 **Modelling**             | `scikit-learn` · `XGBoost` · `Holt-Winters`                               |
-| ✨ **Apps & AI**              | `Streamlit` · `Gemini API`                                                |
-| ⚙️ **Workflow**              | `Git` · `GitHub` · `Jupyter`                                              |
+### 📊 Analytics
+
+`Python` · `pandas` · `NumPy` · `SQL`
+`PostgreSQL` · `MySQL` · `SQLite`
+
+### 📈 Business Intelligence
+
+`Tableau` · `Power BI` · `DAX` · `Power Query` · `Excel`
+
+### 🤖 Modelling
+
+`scikit-learn` · `XGBoost` · `Holt-Winters`
+
+### ✨ Apps & AI
+
+`Streamlit` · `Gemini API`
+
+### ⚙️ Workflow
+
+`Git` · `GitHub` · `Jupyter`
+
 
 
 ## Featured Projects
