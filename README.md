@@ -59,4 +59,8 @@ I turn data into decisions by combining analytical thinking, visualization and A
 
 ---
 
+<h2 align="center">📞 Contact</h2> <p align="center"> <a href="https://linkedin.com/in/pratikshya-dash-955643284"><strong>LinkedIn</strong></a> · <a href="mailto:pratikshyadash590@gmail.com"><strong>Email</strong></a> </p>
+
+
+
 <a href="https://linkedin.com/in/pratikshya-dash-955643284"><strong>LinkedIn</strong></a> · <a href="mailto:pratikshyadash590@gmail.com"><strong>Email</strong></a> </p>
