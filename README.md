@@ -1,6 +1,4 @@
-
-# Pratikshya Dash
-**Aspiring Data Analyst · Business Intelligence · Data Storytelling · AI-Driven Analytics**
+<h1 align="center">Pratikshya Dash</h1> <p align="center"><strong>Aspiring Data Analyst · Business Intelligence · Data Storytelling · AI-Driven Analytics</strong></p>
 
 ---
 
@@ -61,6 +59,4 @@ I turn data into decisions by combining analytical thinking, visualization and A
 
 ---
 
-## 📞 Contact
-
-**[LinkedIn](https://linkedin.com/in/pratikshya-dash-955643284)** · **[Email](mailto:pratikshyadash590@gmail.com)**
+<a href="https://linkedin.com/in/pratikshya-dash-955643284"><strong>LinkedIn</strong></a> · <a href="mailto:pratikshyadash590@gmail.com"><strong>Email</strong></a> </p>
