@@ -31,25 +31,20 @@ I turn data into decisions by combining analytical thinking, visualization and A
 
 ##  Tech Stack
 
-### 📊 Data Analytics
+Analytics
+Python · pandas · NumPy · SQL · PostgreSQL · MySQL · SQLite
 
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" /> <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" /> <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" /> <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" /> <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge" />
+Business Intelligence & Visualization
+Tableau · Power BI · DAX · Power Query · Excel
 
-### 📈 Business Intelligence & Visualization
+Modelling
+scikit-learn · XGBoost · Holt-Winters
 
-<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" /> <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" /> <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
+Apps & AI
+Streamlit · Gemini API
 
-### 🤖 AI & Machine Learning
-
-<img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" /> <img src="https://img.shields.io/badge/XGBoost-006400?style=for-the-badge" /> <img src="https://img.shields.io/badge/Gemini%20API-8E75B2?style=for-the-badge&logo=google&logoColor=white" />
-
-### 🛠️ Tools & Workflow
-
-<img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" /> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-
-</div>
-
-<br/>
+Workflow
+Git · GitHub · Jupyter
 
 ## Featured Projects
 
@@ -76,20 +71,6 @@ I turn data into decisions by combining analytical thinking, visualization and A
 - Created an interactive Tableau dashboard tracking penetration and year-over-year growth
 
 **Stack:** `Python` `Scikit-learn` `Tableau`
-
-<br/>
-
-<div align="center">
-
-### 🎯 Current Focus
-
-🔍 **Exploring entry-level opportunities** in Data Analytics & Business Intelligence
-
-📚 Exploring AI integration in Data Analytics** and learning how AI can enhance analytics workflows
-
-🚀 **Building practical projects** focused on real world business problems
-
-</div>
 
 <br/>
 
