@@ -63,4 +63,4 @@ I turn data into decisions by combining analytical thinking, visualization and A
 
 ## 📞 Contact
 
-💼 **[LinkedIn](https://linkedin.com/in/pratikshya-dash-955643284)** · 📧 **[Email](mailto:pratikshyadash590@gmail.com)**
+**[LinkedIn](https://linkedin.com/in/pratikshya-dash-955643284)** · **[Email](mailto:pratikshyadash590@gmail.com)**
