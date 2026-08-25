@@ -31,9 +31,7 @@ I turn data into decisions by combining analytical thinking, visualization and A
 
 ##  Tech Stack
 
-Analytics
-
-Python · pandas · NumPy · SQL · PostgreSQL · MySQL · SQLite
+**Analytics:** Python · pandas · NumPy · SQL · PostgreSQL · MySQL · SQLite
 
 Business Intelligence & Visualization
 
