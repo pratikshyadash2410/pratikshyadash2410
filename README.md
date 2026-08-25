@@ -18,7 +18,7 @@ I turn data into decisions by combining analytical thinking, visualization and A
 
 ---
 
-## 🧰 Tech Stack
+## Tech Stack
 
 |                              |                                                                           |
 | ---------------------------- | ------------------------------------------------------------------------- |
@@ -30,7 +30,7 @@ I turn data into decisions by combining analytical thinking, visualization and A
 
 ---
 
-## 📂 Featured Projects
+## Featured Projects
 
 ### 📊 Olist E-Commerce — SQL analysis, extended with a plain-English query tool
 
