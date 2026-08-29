@@ -1,4 +1,4 @@
-<h1 align="center">Pratikshya Dash</h1> <p align="center"><strong>Aspiring Data Analyst · Business Intelligence · Data Storytelling · AI-Driven Analytics</strong></p>
+<h1 align="center">Pratikshya Dash</h1> <p align="center"><strong>Data Analyst · Business Intelligence · Data Storytelling · AI-Driven Analytics</strong></p>
 
 ---
 
@@ -24,7 +24,7 @@ I turn data into decisions by combining analytical thinking, visualization and A
 | 📈 **Business Intelligence** | `Tableau` · `Power BI` · `DAX` · `Power Query` · `Excel`                  |
 | 🤖 **Modelling**             | `scikit-learn` · `XGBoost` · `Holt-Winters`                               |
 | ✨ **Apps & AI**              | `Streamlit` · `Gemini API`                                                |
-| ⚙️ **Workflow**              | `Git` · `GitHub` · `Jupyter`                                              |
+| ⚙️ **Workflow**              | `GitHub` · `Jupyter`                                                      |
 
 ---
 
@@ -34,8 +34,8 @@ I turn data into decisions by combining analytical thinking, visualization and A
 
 > Seven business questions on 100K+ Brazilian marketplace orders, then an app that lets anyone ask the same kind of question without writing SQL.
 
-- Answered revenue, customer-behaviour, seller-performance and delivery questions in SQL using joins, CTEs, window functions and `CASE`, then reported them in Tableau across sales, customers, products and logistics.
-- Built a Streamlit app where a plain-English question returns the generated SQL, the result table, a chart chosen from the shape of the result (KPI, line, pie, bar or scatter), and a short written takeaway.
+- Answered revenue, customer behaviour, seller performance and delivery questions in SQL using joins, CTEs, window functions and `CASE`, then reported them in Tableau across sales, customers, products and logistics.
+- Built a Streamlit app where a plain english question returns the generated SQL, the result table, a chart chosen from the shape of the result (KPI, line, pie, bar or scatter), and a short written takeaway.
 - Restricted execution to `SELECT` only, so no prompt can talk the model into running a `DROP TABLE`.
 - Date grouping worked locally but broke once deployed — SQLite's `strftime()` behaved differently on the server — so I stopped computing dates at query time and pre-compute them when the database is built instead. Written up in the repo.
 
@@ -50,8 +50,8 @@ I turn data into decisions by combining analytical thinking, visualization and A
 > How EV adoption has spread across Indian states and vehicle segments over ten years, and where the trend points next.
 
 - Cleaned and prepared 96,000+ sales records spanning 2014 to 2024, handling missing values, duplicates and inconsistent state names, then engineered year, month and segment features.
-- Analysed state-wise and segment-wise demand alongside year-over-year growth in pandas, with charts built in Jupyter using matplotlib and seaborn.
-- Ran XGBoost against a linear regression baseline on the engineered features, and used Holt-Winters exponential smoothing for the time-series forecast.
+- Analysed state wise and segment wise demand alongside year over year growth in pandas, with charts built in Jupyter using matplotlib and seaborn.
+- Ran XGBoost against a linear regression baseline on the engineered features, and used Holt Winters exponential smoothing for the time series forecast.
 
 **Stack:** `Python` · `pandas` · `NumPy` · `scikit-learn` · `XGBoost` · `Holt-Winters` · `matplotlib` · `seaborn`
 
