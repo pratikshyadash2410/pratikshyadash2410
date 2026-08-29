@@ -36,8 +36,6 @@ I turn data into decisions by combining analytical thinking, visualization and A
 
 - Answered revenue, customer behaviour, seller performance and delivery questions in SQL using joins, CTEs, window functions and `CASE`, then reported them in Tableau across sales, customers, products and logistics.
 - Built a Streamlit app where a plain english question returns the generated SQL, the result table, a chart chosen from the shape of the result (KPI, line, pie, bar or scatter), and a short written takeaway.
-- Restricted execution to `SELECT` only, so no prompt can talk the model into running a `DROP TABLE`.
-- Date grouping worked locally but broke once deployed — SQLite's `strftime()` behaved differently on the server — so I stopped computing dates at query time and pre-compute them when the database is built instead. Written up in the repo.
 
 **Stack:** `SQL` · `Python` · `Streamlit` · `Gemini API` · `SQLite` · `Altair` · `Tableau`
 
