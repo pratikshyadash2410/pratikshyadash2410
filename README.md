@@ -1,6 +1,8 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Poppins&size=32&pause=1000&color=F75C7E&center=true&vCenter=true&width=500&lines=Hi+there%2C+I'm+Pratikshya+Dash;Data+Analyst+%7C+BI+Enthusiast;Turning+Data+Into+Decisions" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Space+Grotesk&size=32&pause=1000&color=14B8A6&center=true&vCenter=true&width=500&lines=Hi+there%2C+I%27m+Pratikshya+Dash" alt="Typing SVG" />
 </h1>
+
+<p align="center"><strong>Data Analyst · Business Intelligence · Data Storytelling · AI-Driven Analytics</strong></p>
 
 ---
 
