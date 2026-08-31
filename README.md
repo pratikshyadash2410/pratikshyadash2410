@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Space+Grotesk&size=32&pause=1000&color=14B8A6&center=true&vCenter=true&width=500&lines=Hi+there%2C+I%27m+Pratikshya+Dash" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Outfit&size=32&pause=1000&color=0891B2&center=true&vCenter=true&width=500&lines=Hi+there%2C+I%27m+Pratikshya+Dash" alt="Typing SVG" />
 </h1>
 
 <p align="center"><strong>Data Analyst · Business Intelligence · Data Storytelling · AI-Driven Analytics</strong></p>
